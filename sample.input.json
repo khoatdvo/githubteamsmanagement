@@ -1,0 +1,11 @@
+{
+    "teams": {
+        "team1": {
+            "user1": "maintainer",
+            "user2": "member"
+        },
+        "team2": {
+            "user2": "member"
+        }
+    }
+}
